@@ -1,0 +1,60 @@
+/* XPM */
+static char *_494649fc53149b788a6143b6adb13579VQXp590dTllL3T8[] = {
+/* columns rows colors chars-per-pixel */
+"40 40 14 2 "
+"   c #000000"
+".  c #b30000"
+"z  c #660000"
+"b  c #c0ccdc"
+"g  c #a8b5c8"
+"d  c #dee5ef"
+"f  c #e0e4ef"
+"v  c #5a688b"
+"d  c #8b9bb4"
+"h  c #703e3f"
+"t  c #9b5a46"
+"z  c #b86f4f"
+"G  c #feae35"
+"s  c #f9ec62"
+/* pixels */
+". . . . . . . . b b b b b b b b b v b b g b b b b v b b b b b b b . . . . . . . "z
+". . . . . . . b v b b g g g g b b v b g g g g g g v b g g g b b g v . . . . . . "z
+". . . . . . b b f v b g g g g g b v b g g g g g b v b g g g g b v b b . . . . . "z
+". . . . . b b b b f v b b f f f f v f g g b f f f v f f f g g v b g b b . . . . "z
+". . . . b b g b g b g v f d d d d d d d d d d d d d d d d f v b g b g b b . . . "z
+". . . f v b b b g g g b v h h h h h h h h h h h h h h h d v f g g g g g b v . . "z
+". . b b f v b g g g b g h h t z t t z z z z h t z z t h h d d f g g g b v b b . "z
+". b b b f f v b g b g h z h t z t t z z z z h t z z t t h h d d b g b v b g b . "z
+". b b g b b f v b g h z z h t z t t z z z z h t z z t t z h h d d b v b b g b . "z
+". b b b b g b f v h z z z h t z t t z z z z h t z z t z z z h h d v f f g g b . "z
+". b b g g b b b h z z z t h t z t t z z z z h t z z t z z z z h h d f b b b b . "z
+". . v v v v v h z z z z t h t z t t z z z z h t z z t z z z z h h v v v v v . . "z
+". b b b b b f f z z z z t h t z z t z z z z h t z z z z z z z h h d f f b b b . "z
+". b g g b b g g z t z z t h t z z t z z z z h t z z z z t z z h h d f g g g b . "z
+". b g g b b g g z t z z t h t z z t z z z z h t z z t z t z z h h d b g g b g . "z
+". b b b b b g g z t t t t h t t z t z z z h h t z z z z z z z h h d b g b b b . "z
+". b b b b g g b G G G G G G G G G G G G G G G G G G G G z z z h h d b b b b b . "z
+". . v v v v v h G S G G G G G S G G G G S G G G G S G G G z z h h v v v v v . . "z
+". b b b f b f f G G G G G G G G G G G G G G G G G G G G z z z h h d f b b b b . "z
+". b b g g g g f z z z z z h z z z t z z z z h t z t z z z z z h h d b g g b b . "z
+". b b b g g g f z z z z z h z z z t z z t z h t z z z z z z z h h d b g g g g . "z
+". b b g b b g g z z z z z h z z z t z z t z h t z z z z z z z h h d b g g g g . "z
+". b b b b b g g z z z t z h z z z t z z z z h t z z z z z z z h h d b g g b b . "z
+". . v v v v v h z z z t z h z z z t z z z z h t z z z z z z z h h d f b b b b . "z
+". b g g b f b f z z z t h h z z z t z z z z h t z G z z G z z h h v v v v v . . "z
+". b g g g g g b z z z t h h z z z t z z z z h t G z z z h G z h h d b g g b b . "z
+". b b g b g g f z z z t h h z z z t z z z z h t G z z z h G z h h d b g b g f . "z
+". b b g b b g b z z z t z h z z z t z z z z h t h G S S G z z h h d b g g b b . "z
+". b b b b g g b z z z t z h z z z t z z z z h t h h h h h z z h h d f b b b b . "z
+". b b b b b b b z z z t z h z z z t z z z z h t z z z z z z z h h v v v v v . . "z
+". . v v v v v h z z z t z h z z z t z z z z h t z z z z z z h h h d f b b b f . "z
+". b b b f b f f z z z t z h z z z t z z z z h t z z z z z z h h h d g b g g b . "z
+". b g g g g g f G G G G G G G G G G G G G G G G G G G G z z z h h d f b g b b . "z
+". b g g b g g f G S G G G G G S G G G G S G G G G S G G G z z h h d f g g b b . "z
+". b g b b b g f G G G G G G G G G G G G G G G G G G G G z z z h h d b b b g b . "z
+". b b b b b b b z z t t t h t z z t z z z z h t z z z z z t z h h d b g b b b . "z
+". . v v v v v h z z z t z h t z z t z z z z h t z z z z z t z h h v v v v v . . "z
+". b b b g f f f z z z t z h t z z t z z z z h t z z t z z z z h h d f f f g b . "z
+". b g g g g g f z z z z z h t t z t z z z z h h z z t z z z z h h d f b b g b . "z
+". b g g b g g b z z z z z h t t z t z z z z h h z z t z z z z h h d f g b g b . "z
+};
